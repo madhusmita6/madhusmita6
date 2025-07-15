@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Madhusmita Ghosh
 
-<!--
-**madhusmita6/madhusmita6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Generative AI & ML Engineer | Python Developer | NLP Enthusiast  
+🎓 EPGP from IIIT Bangalore |MS in AI & ML  Liverpool John Moores University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Specialties
+- Generative AI (OpenAI, Mistral, Claude)
+- LLM Agents (LangChain, LlamaIndex,crewAI)
+- RAG Pipelines and AI Workflows
+- Python, Transformers, NLP, Deep Learning
+
+---
+
+## 💼 Highlight Projects
+
+### 🔹 Smartmail-Agent
+LLM-powered email assistant using Mistral, Gmail API, and Telegram.  
+📎 [View Repo](https://github.com/madhusmita6/smartmail-agent)
+
+### 🔹 Semantic Spotter (RAG)
+Semantic search on insurance docs using LlamaIndex.  
+📎 [View Repo](https://github.com/madhusmita6/semantic-spotter)
+
+### 🔹 Sentiment-Based Recommender
+Real-time product recommendation based on sentiment and collaborative filtering.  
+📎 [View Repo](https://github.com/madhusmita6/sentiment-recommender)
+
+---
+
+## 🔗 Connect with Me
+- 📧 jobsformadhusmita@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/madhusmitaghoshgenaiengineer/)  
+- 💻 [GitHub](https://github.com/madhusmita6)
+
