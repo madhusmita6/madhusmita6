@@ -17,7 +17,7 @@
 
 ### 🔹 Smartmail-Agent
 LLM-powered email assistant using Mistral, Gmail API, and Telegram.  
-📎 [View Repo](https://github.com/madhusmita6/smartmail-agent)
+📎 [View Repo](https://github.com/madhusmita6/-Smartmail-Agent)
 
 ### 🔹 Semantic Spotter (RAG)
 Semantic search on insurance docs using LlamaIndex.  
