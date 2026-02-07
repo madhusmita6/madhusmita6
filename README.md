@@ -21,11 +21,11 @@ LLM-powered email assistant using Mistral, Gmail API, and Telegram.
 
 ### 🔹 Semantic Spotter (RAG)
 Semantic search on insurance docs using LlamaIndex.  
-📎 [View Repo](https://github.com/madhusmita6/semantic-spotter)
+📎 [View Repo](https://github.com/madhusmita6/SBPRSMM))
 
 ### 🔹 Sentiment-Based Recommender
 Real-time product recommendation based on sentiment and collaborative filtering.  
-📎 [View Repo](https://github.com/madhusmita6/sentiment-recommender)
+📎 [View Repo](https://github.com/madhusmita6/IIIT-B-Semantic-Spotter-Project)
 
 ---
 
