@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhusmita Ghosh
 
-🚀 Generative AI & ML Engineer | Python Developer | NLP Enthusiast  
+🚀 Generative AI & ML Engineer | Python Developer | NLP  
 🎓 EPGP from IIIT Bangalore |MS in AI & ML  Liverpool John Moores University  
 
 ---
